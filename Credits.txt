@@ -1,0 +1,38 @@
+Punching Animations by Mixamo
+Male Hurt Sound by ChristopherDerp(freeSound.org)
+Male Death Sound by Tonsil5 (freeSound.org)
+Woman Hurt Sound by Yudena (freesound.org)
+Punch Sounds from RuskiCommunist(freesound.org)
+Attack Animation from Ryan Laley
+Sword Mesh from thebasemesh.org
+Item Pickup from TreasureSounds (FreeSound.org)
+Sword Slice from TheBuilder15 (Freesound.org)
+Whiff Sound effects from deleted_user_6479820 on (FreeSound.org)
+
+Office Prop Pack - Low Poly from SellPet (https://sketchfab.com/3d-models/office-prop-pack-low-poly-5ce85cfc4e29463bb8a614cb2cb5e0dd)
+
+Hud positioning code from Kneebiter on Unreal Forums
+
+Office Photo by Photo by Marc Mueller: https://www.pexels.com/photo/green-leafed-plants-380768/
+
+Menu Buttons and UI Sounds from Kenny
+Intro Song from Alexandr Zhelanov (Mystical Theme) from OpenGameArt.org
+
+Gameplay Theme (Funky element) from BenSounds
+Main Menu Theme (Imminent Threat) by Matthew Pablo
+http://www.matthewpablo.com
+Intro Theme by (Mystical Theme) by Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov 
+Jingles from Kenney.nl
+Paper Crumple SFX by By Nicole Marie T (Opengameart.org)
+Music box game over by Kim LightYear (Opengameart.org)
+
+Sounds
+SFX from Timopy from OpenGameArt.org
+
+Textures
+Wood textures from JCW on opengameart
+
+Models
+Office Model Blend from sandsound from opengameart
+Furniture Kit from Kenney
+3d Furniture Pack from mehrasaur on opengameart
